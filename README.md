@@ -5,7 +5,7 @@
 
 ## Overview
 
-The Face Mask Detection Project is an innovative application designed to identify whether a person is wearing a face mask or not using Convolutional Neural Networks (CNNs). It contributes to public health and safety efforts by automating the monitoring of face mask compliance in various settings.
+The Face Mask Detection Project is an innovative application designed to identify whether a person is wearing a face mask or not using Convolutional Neural Networks (CNNs). It contributes to public health and safety efforts by automating the monitoring of face mask compliance in various aspects.
 
 ## Features
 
