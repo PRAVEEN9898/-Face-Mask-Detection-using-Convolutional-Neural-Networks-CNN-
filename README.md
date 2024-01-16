@@ -27,6 +27,3 @@ The model was trained on a dataset consisting of images with and without face ma
 
 The Face Mask Detection Project showcases the potential of Convolutional Neural Networks in addressing real-world challenges. Its applications in public health and safety underscore its importance in promoting responsible practices during health crises.
 
----
-
-Feel free to customize this template based on your project specifics.
